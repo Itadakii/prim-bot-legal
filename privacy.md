@@ -8,7 +8,7 @@ permalink: /privacy/
 
 Dernière mise à jour : 18 novembre 2026
 
-**Éditeur** : [ton nom ou pseudo], contact : [ton e-mail]
+**Éditeur** : Itadakii, contact : par MP
 
 ## Données traitées
 Le bot reçoit les identifiants Discord (utilisateur, serveur, salon) et les options saisies dans les commandes `/trafic` et `/plan`, uniquement pour répondre à la commande. Il ne lit pas le contenu des messages des salons.
